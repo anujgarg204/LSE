@@ -7,6 +7,9 @@ function App() {
         <Piyush name="Piyush"/>
         <Piyush name="Anuj"/>
         <Piyush name="Nadim"/>
+        <Piyush name="Yogesh"/>
+        <Piyush name="Raunaq"/>
+        <Piyush name="Shyaam"/>
     </div>
   );
 }
